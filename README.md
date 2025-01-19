@@ -19,6 +19,7 @@
 ---
 
 ## Demo Video
+[Watch the Demo Video](https://rahul-cse-25.github.io/quiz-app/)
 
 <video width="600" controls>
   <source src="docs/demo.mp4" type="video/mp4">
