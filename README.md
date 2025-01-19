@@ -17,6 +17,15 @@
 - **Play Again Option:** Users can take the quiz again with a "Play Again" button.
 - **Shimmer Effect:** Animated score display with a shimmer effect to enhance the user experience.
 ---
+
+## Demo Video
+
+<video width="600" controls>
+  <source src="screenshots/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Screenshots
 
 #### Start Screen Dark Mode

@@ -238,9 +238,6 @@ class _QuizScreenState extends State<QuizScreen> {
                           color: Colors.white,
                           fontSize: testStyle.sizes.textMultiplier * 2),
                     ),
-                    subtitle: Text(
-                      '${option.isCorrect}'
-                    ),
                     trailing: Icon(
                       existingAnswer.selectedIndex == index
                           ? Icons.check_circle_outline
